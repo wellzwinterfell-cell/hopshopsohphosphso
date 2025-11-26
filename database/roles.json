@@ -1,0 +1,48 @@
+{
+    "1439285383778013184": {
+        "name": "ลูกค้า DEKBOTDISCORD",
+        "title": "DEKBOTDISCORD 100 BAHT",
+        "embeddes" : "ได้ src บอทต่างๆของร้านต่างๆนาๆ",
+        "description": "100.- เปิดโซน Serverbotdiscord ทุกอย่างและอีกมากมาย",
+        "price": 100,
+        "roleId": 1439285383778013184,
+        "emoji": "<:DG22:1184837339403526244> "
+    },
+    "1439272053017542839": {
+        "name": "ลูกค้า DEKGODPUNCH/WEAPON",
+        "title": "DEKGODPUNCH/WEAPON 100 BAHT",
+        "embeddes" : "ได้ใช้ reg cmd ต่างๆของร้านดัง",
+        "description": "100.- เปิดโซนของช่วยเล่น fivem ให้มีประสิทธิภาพมากขึ้น",
+        "price": 100,
+        "roleId": 1439272053017542839,
+        "emoji": "<:DG32:1184837385838661752> "
+    },
+    "1307035416381100144": {
+        "name": "ลูกค้า DEKHOPEBOY",
+        "title": "DEKHOPEBOY 150 BAHT",
+        "embeddes" : "ได้เปิดห้องโซนต่างๆ สำหรับถ่ายรูป GTAVoffline คุ้มๆไม่ต้องไปเสียเงินหลัก 1xxx",
+        "description": "150.- ได้รับสินค้าถ่ายรูป gtavoffline มากมาย",
+        "price": 150,
+        "roleId": 1307035416381100144,
+        "emoji": "<:DG25:1184837355266383943> "
+    },
+    "1442935325428154420": {
+        "name": "ลูกค้า DEKHOPECUTE",
+        "title": "DEKHOPECUTE 150 BAHT",
+        "embeddes" : "ได้เปิดห้องโซนต่างๆ สำหรับถ่ายรูปของผู้หญิง และอีกมากมาย",
+        "description": "150.- ได้รับสินค้าถ่ายรูปcute gtavoffline",
+        "price": 150,
+        "roleId": 1442935325428154420,
+        "emoji": "<:botsever27:1184882609155748000> "
+    },
+    "1307035412988170260": {
+        "name": "ลูกค้า ALLROLES",
+        "title": "ALLROLES 450 BAHT",
+        "embeddes" : "ได้เปิดห้องโซนต่างๆ ทุกห้องทุกยศ",
+        "description": "450.- ได้รับทุกยศในดิส",
+        "price": 450,
+        "roleId": 1307035412988170260,
+        "emoji": "<:botsever27:1184882609155748000> "
+    }
+}
+

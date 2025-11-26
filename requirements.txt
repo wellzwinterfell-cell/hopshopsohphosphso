@@ -1,0 +1,4 @@
+nextcord
+requests
+Flask
+python-dotenv
